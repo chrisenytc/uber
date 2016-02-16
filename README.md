@@ -3,8 +3,8 @@ Uber
 
 > Golang bindings for [Uber API](https://developer.uber.com/docs/api-overview)
 
-[![Build Status](https://travis-ci.org/uber/go-uber.png)](https://travis-ci.org/r-medina/uber)
-[![GoDoc](https://godoc.org/github.com/uber/go-uber?status.svg)](https://godoc.org/github.com/chrisenytc/uber)
+[![Build Status](https://travis-ci.org/chrisenytc/uber.png)](https://travis-ci.org/chrisenytc/uber)
+[![GoDoc](https://godoc.org/github.com/chrisenytc/uber?status.svg)](https://godoc.org/github.com/chrisenytc/uber)
 
 ## Getting Started
 
