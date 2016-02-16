@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/chrisenytc/uber",
+	"GoVersion": "go1.5",
+	"Deps": [
+		{
+			"ImportPath": "github.com/skratchdot/open-golang/open",
+			"Rev": "c8748311a7528d0ba7330d302adbc5a677ef9c9e"
+		}
+	]
+}
